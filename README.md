@@ -1,3 +1,11 @@
+TO START THIS APPLICATION 
+1 STEP : git clone https://github.com/bharath-svg/kidvento-Assess.git
+2 STEP : npm install 
+3 STEP : npm start 
+4 STEP : RUN APP IN BROWSWER (PORT : http://localhost:3000/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
