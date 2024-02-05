@@ -1,0 +1,51 @@
+.school_level {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 929px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.school_level_header {
+  background: #1e2773;
+  text-align: center;
+  height: 45px;
+  gap: 4px;
+  padding: 16px;
+  border-radius: 8px 8px 0 0;
+}
+
+.school_level_header > h4 {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  color: #ffffff;
+  margin: auto;
+}
+.school_level_body_one {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 320px;
+  height: 200px;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 8px;
+  background: linear-gradient(0deg, #71ca00, #71ca00);
+}
+
+.school_level_body {
+  display: flex;
+  justify-content: center;
+}
+
+.school_level_body_first_child,
+.school_level_body_sec_child {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}

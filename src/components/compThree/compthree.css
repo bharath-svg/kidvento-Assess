@@ -1,0 +1,27 @@
+.set_skill {
+  display: flex;
+  flex-direction: column;
+  flex: 1.2;
+  height: 929px;
+  background-color: #e2ebf8;
+}
+.set_skill_header {
+  display: flex;
+  align-items: center;
+  background: #1e2773;
+  text-align: center;
+  width: 92%;
+  height: 45px;
+  padding: 16px;
+  border-radius: 8px 8px 0px 0px;
+  gap: 4px;
+}
+
+.set_skill_header > h4 {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  color: #ffffff;
+}
